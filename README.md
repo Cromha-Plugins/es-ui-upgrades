@@ -21,7 +21,7 @@ cd ~/Library/Application\ Support/endless-sky/plugins
 ```
 Next, run this command:
 ```
-git clone git@github.com:lumbar527/es-ui-upgrades.git
+git clone git@github.com:Cromha-Plugins/es-ui-upgrades.git
 ```
 Now you have the plugin downloaded and in the correct folder.
 
